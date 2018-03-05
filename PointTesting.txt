@@ -1,0 +1,18 @@
+Julia McDonald (jmcdona6) Assignment 2
+
+1.0 3.0 ( 1.0, 3.0 )
+3.0 4.0 ( 3.0, 4.0 )
+5.0990195135927845 10.0 12.083045973594572 0.0
+false
+true
+false
+Enter x-coordinate:
+4 //entered by user
+Enter y-coordinate:
+5 //entered by user
+( 4.0, 5.0 )
+Enter x-coordinate:
+28.4981 //entered by user
+Enter y-coordinate:
+-5.391 //entered by user
+( 28.4981, -5.391 )

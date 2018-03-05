@@ -1,0 +1,43 @@
+Julia McDonald (jmcdona6) Assignment 2
+
+Flight 1:
+Airline?
+Delta
+Flight Number?
+1234
+Where from?
+Boston
+Where to?
+Buffalo
+Flight 2:
+Airline?
+Delta
+Flight Number?
+5678
+Where from?
+Buffalo
+Where to?
+Portland
+Flight 3:
+Airline?
+American Airlines
+Flight Number?
+3728
+Where from?
+Los Angeles
+Where to?
+Orlando
+
+Delta 1234
+Boston - Buffalo
+
+Delta 5678
+Buffalo - Portland
+
+American Airlines 3728
+Los Angeles - Orlando
+
+Is there a stop over between flights 1 and 2?
+yes
+Is there a stop over between flights 1 and 3?
+no
